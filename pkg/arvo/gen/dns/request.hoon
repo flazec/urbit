@@ -6,7 +6,7 @@
 /+  *generators
 :-  %ask
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [arg=$@(~ [addr=@if ~])]
+        arg=?(~ addr=@if)
         ~
     ==
 ^-  (sole-result [%dns-address address])

@@ -8,10 +8,12 @@
   ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [arg=[@ $@(~ [@ ~])] ~]
+        [arg=$@(@ [@ @]) ~]
     ==
 :-  %drum-start
+?@  arg
+  ?>  ((sane %tas) arg)
+  [q.bec arg]
 ?>  ((sane %tas) -.arg)
-?@  +.arg  [q.bec -.arg]
-?>  ((sane %tas) +<.arg)
-[-.arg +<.arg]
+?>  ((sane %tas) +.arg)
+[-.arg +.arg]

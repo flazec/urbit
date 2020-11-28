@@ -2,7 +2,7 @@
 ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [[=ship graph=term ~] ~]
+        [[=ship graph=term] ~]
     ==
 :-  %graph-update
 =/  our  (scot %p p.bec)

@@ -8,32 +8,33 @@
 ::
 |%
 +$  beaky  [knot knot knot ~]
-+$  sorc  ?([bek=beaky ~] [her=@p sud=@tas ~])
++$  sorc  ?(bek=beaky [her=@p sud=@tas])
 --
 ::
 ::::
   ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ bek=beak]
-        [arg=[?(~ sorc [syd=$@(desk beaky) sorc])] cas=case gem=?(germ %auto)]
+        arg=[?(~ sorc [syd=$@(desk beaky) sorc])]
+        [cas=case gem=?(germ %auto)]
     ==
 =*  our  p.bek
 |^  :-  %kiln-merge
     ^-  $@(~ [syd=desk her=ship sud=desk cas=case gem=?(germ %auto)])
     ?-  arg
       ~  ((slog (turn help-text |=(=@t leaf+(trip t)))) ~)
-      [@ @ ~]
+      [@ @]
         =+(arg [sud ?.(=(our her) her (sein:title p.bek now her)) sud (opt-case da+now) gem])
     ::
-      [^ ~]
+      [@ @ @ ~]
         =+  (pars bek.arg)
         [dez ?.(=(our who) who (sein:title p.bek now who)) dez (opt-case caz) gem]
     ::
-      [* @ @ ~]
+      [* @ @]
         :-  (pars-src syd.arg)
         =+(arg [her sud (opt-case da+now) gem])
     ::
-      [* ^ ~]
+      [* @ @ @ ~]
         :-  (pars-src syd.arg)
         =+((pars bek.arg) [who dez (opt-case caz) gem])
     ==

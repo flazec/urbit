@@ -1,7 +1,7 @@
 /-  aquarium
 =,  aquarium
 :-  %say
-|=  [* [her=ship pax=path ~] ~]
+|=  [* [her=ship pax=path] ~]
 :-  %aqua-events  :_  ~
 ^-  aqua-event:aquarium
 :+  %event  her

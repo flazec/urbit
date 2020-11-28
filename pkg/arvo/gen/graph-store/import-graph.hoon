@@ -2,7 +2,7 @@
 ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [[graph=term =path ~] ~]
+        [[graph=term =path] ~]
     ==
 :-  %graph-update
 =-  ~&  update=-  -

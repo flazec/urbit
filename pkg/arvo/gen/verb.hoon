@@ -3,5 +3,5 @@
 ::  For apps that use lib/verb, :app +verb toggles verbosity.
 ::
 :-  %say
-|=  [* arg=?(~ [%bowl ~]) ~]
+|=  [* arg=?(~ %bowl) ~]
 [%verb ?~(arg %loud %bowl)]

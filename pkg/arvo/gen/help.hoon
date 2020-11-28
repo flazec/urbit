@@ -41,7 +41,7 @@
 --
 ::
 :-  %say
-|=  [[now=time @ our=ship ^] typ=$@(~ [p=term ~]) ~]
+|=  [[now=time @ our=ship ^] typ=?(~ p=term) ~]
 =/  pax=path  /(scot %p our)/home/(scot %da now)/gen  :: XX hardcoded
 =+  len=(lent pax)
 =.  pax  ?~(typ pax (welp pax /[p.typ]))

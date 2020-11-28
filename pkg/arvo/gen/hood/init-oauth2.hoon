@@ -11,7 +11,7 @@
 =,  generators
 :-  %ask
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [arg=$@(~ [dom=path ~])]
+        [arg=$@(~ dom=path)]
         ~
     ==
 ^-  (sole-result:sole [%write-sec-atom p=host:eyre q=@])

@@ -2,7 +2,7 @@
 ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ =beak]
-        [[name=term ~] ~]
+        [name=term ~]
     ==
 :-  %publish-action
 [%serve name]

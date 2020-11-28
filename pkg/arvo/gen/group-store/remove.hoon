@@ -3,7 +3,7 @@
 /-  *group-store
 :-  %say
 |=  $:  [now=@da eny=@uvJ =beak]
-        [[=ship =term ships=(list ship) ~] ~]
+        [[=ship =term ships=(list ship)] ~]
     ==
 :-  %group-action
 ^-  action

@@ -24,14 +24,14 @@
         *
         ::  inline arguments
         ::
-        args=?(~ [what=?(%bowl %state) ~] [=poke ~])
+        args=?(~ what=?(%bowl %state) =poke)
         ::  named arguments
         ::
         ~
     ==
 :-  %dbug
 ?-  args
-  ~          [%state '']
-  [@ ~]      ?-(what.args %bowl [%bowl ~], %state [%state ''])
-  [[@ *] ~]  poke.args
+  ~      [%state '']
+  @      ?-(what.args %bowl [%bowl ~], %state [%state ''])
+  [@ *]  poke.args
 ==

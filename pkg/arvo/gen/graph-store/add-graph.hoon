@@ -3,7 +3,7 @@
 /+  *graph-store
 :-  %say
 |=  $:  [now=@da eny=@uvJ =beak]
-        [[=resource mark=(unit mark) overwrite=? ~] ~]
+        [[=resource mark=(unit mark) overwrite=?] ~]
     ==
 :-  %graph-update
 ^-  update

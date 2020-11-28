@@ -4,7 +4,9 @@
   ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [arg=[des=desk may=?(~ [pax=path ~])] ~]
+        arg=$@(des=desk [des=desk pax=path])
+        ~
     ==
 :-  %kiln-permission
-[des ?~(may / pax.may) |]:arg
+?@  arg  [des.arg / |]
+[des pax |]:arg

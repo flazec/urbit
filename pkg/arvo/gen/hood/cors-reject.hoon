@@ -1,5 +1,5 @@
 ::  eyre: disallow cors requests from origin
 ::
 :-  %say
-|=  [^ [=origin:eyre ~] ~]
+|=  [^ =origin:eyre ~]
 [%helm-cors-reject origin]

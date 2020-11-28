@@ -1,4 +1,4 @@
 ::  Change node url for azimuth-tracker
 :-  %say
-|=  [* [url=@ta ~] ~]
+|=  [* url=@ta ~]
 [%azimuth-tracker-poke %watch url]

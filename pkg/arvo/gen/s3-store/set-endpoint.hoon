@@ -3,7 +3,7 @@
 /-  *s3
 :-  %say
 |=  $:  [now=@da eny=@uvJ =beak]
-        [[endpoint=@t ~] ~]
+        [endpoint=@t ~]
     ==
 :-  %s3-action
 ^-  action

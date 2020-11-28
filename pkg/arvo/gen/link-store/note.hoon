@@ -3,7 +3,7 @@
 /-  *link-store, *link
 :-  %say
 |=  $:  [now=@da eny=@uvJ =beak]
-        [[=path =url note=@t ~] ~]
+        [[=path =url note=@t] ~]
     ==
 :-  %link-action
 ^-  action

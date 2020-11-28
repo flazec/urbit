@@ -4,4 +4,7 @@
   ::
 /?    310
 :-  %say
-|=([^ [who=ship mez=$@(~ [a=tape ~])] ~] helm-send-hi+[who ?~(mez ~ `a.mez)])
+|=  [^ arg=$@(who=ship [who=ship mez=tape]) ~]
+:-  %helm-send-hi
+?@  arg  [who.arg ~]
+[who `mez]:arg

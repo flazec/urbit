@@ -3,7 +3,7 @@
 /-  *s3
 :-  %say
 |=  $:  [now=@da eny=@uvJ =beak]
-        [[bucket=@t ~] ~]
+        [bucket=@t ~]
     ==
 :-  %s3-action
 ^-  action

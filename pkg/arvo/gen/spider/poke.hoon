@@ -1,4 +1,4 @@
 ::  Poke a thread
 :-  %say
-|=  [* [=@ta =mark =vase ~] ~]
+|=  [* [=@ta =mark =vase] ~]
 [%spider-input ta mark vase]

@@ -4,5 +4,5 @@
   ::
 /?    310
 :-  %say
-|=  [^ [sed=@t ~] ~]
+|=  [^ sed=@t ~]
 [%helm-rekey sed]

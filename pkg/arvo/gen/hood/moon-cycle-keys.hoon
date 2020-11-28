@@ -9,7 +9,7 @@
   ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [mon=@p ~]
+        mon=@p
         =life
         public-key=pass
     ==

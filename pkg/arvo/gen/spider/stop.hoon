@@ -1,4 +1,4 @@
 ::  Stop a thread
 :-  %say
-|=  [* [tid=@ta ~] ~]
+|=  [* tid=@ta ~]
 [%spider-stop tid |]

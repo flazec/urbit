@@ -3,7 +3,7 @@
 /-  *group, *group-hook
 :-  %say
 |=  $:  [now=@da eny=@uvJ =beak]
-        [[=ship =term ~] ~]
+        [[=ship =term] ~]
     ==
 :-  %group-hook-action
 ^-  action

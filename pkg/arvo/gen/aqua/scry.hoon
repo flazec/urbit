@@ -4,7 +4,7 @@
 =,  aquarium
 :-  %say
 |*  $:  [now=@da eny=@uvJ bec=beak]
-        [a=mold pax=path ~]
+        [a=mold pax=path]
         ~
     ==
 :-  %noun

@@ -8,10 +8,11 @@
   ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [[pax=path pot=$@(~ [v=@tas ~])] ~]
+        pax=path
+        point=@tas
     ==
-?~  pot
+?~  point
   =+  bem=(need (de-beam:format pax))
-  $(pot ~[?^(s.bem (rear s.bem) q.bem)])
+  $(point ?^(s.bem (rear s.bem) q.bem))
 :-  %kiln-mount
-[pax v.pot]
+[pax point]

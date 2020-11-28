@@ -7,6 +7,6 @@
 ::::
   ::
 :-  %say
-|=  [^ [pax=path ~] ~]
+|=  [^ pax=path ~]
 ::
 [%tang `tang`(flop (turn .^((list path) %ct pax) smyt))]

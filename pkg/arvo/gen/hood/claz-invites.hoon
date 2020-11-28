@@ -9,7 +9,7 @@
 ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ =beak]
-        [star=ship min-child=@ud max-child=@ud out=path ~]
+        [star=ship min-child=@ud max-child=@ud out=path]
         ~
     ==
 ?:  (gth min-child max-child)

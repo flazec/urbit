@@ -13,7 +13,7 @@
 =,  format
 :-  %ask
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [arg=$@(~ [jon=json ~])]
+        [arg=?(~ jon=json)]
         ~
     ==
 ^-  (sole-result:sole [%write-sec-atom p=host:eyre q=@])

@@ -13,7 +13,7 @@
 /+  resource
 :-  %say
 |=  $:  [now=@da eny=@uvJ =beak]
-        [[group=term app=term =path ~] ~]
+        [[group=term app=term =path] ~]
     ==
 :-  %metadata-action
 ^-  metadata-action

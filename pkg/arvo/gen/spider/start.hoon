@@ -1,4 +1,4 @@
 ::  Start a thread
 :-  %say
-|=  [* [name=term vase=$@(~ [vase ~])] ~]
-[%spider-start ~ ~ name ?~(vase *^vase -.vase)]
+|=  [* arg=$@(name=term [name=term vase=vase]) ~]
+[%spider-start ~ ~ ?@(arg [name.arg *vase] [name vase]:arg)]

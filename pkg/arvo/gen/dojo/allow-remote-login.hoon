@@ -4,6 +4,6 @@
 ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [[=ship ~] ~]
+        [=ship ~]
     ==
 [%allow-remote-login ship]

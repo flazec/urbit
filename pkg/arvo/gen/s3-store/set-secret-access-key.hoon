@@ -3,7 +3,7 @@
 /-  *s3
 :-  %say
 |=  $:  [now=@da eny=@uvJ =beak]
-        [[secret-access-key=@t ~] ~]
+        [secret-access-key=@t ~]
     ==
 :-  %s3-action
 ^-  action

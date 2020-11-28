@@ -733,6 +733,7 @@
       ^-  vase
       ?~  src
         !>(~)
+      ?~  t.src  (dy-vase p.i.src)
       (slop (dy-vase p.i.src) $(src t.src))
     ::
     ++  dy-run-generator
@@ -753,7 +754,7 @@
       ::
       ::    A normal generator takes as arguments:
       ::    - event args: date, entropy, beak (network location)
-      ::    - positional arguments, as a list
+      ::    - positional arguments, as an n-tuple
       ::    - optional keyword arguments, as name-value pairs
       ::
       ::    The generator is a pair of a result mark and a gate.

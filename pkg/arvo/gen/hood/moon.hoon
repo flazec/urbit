@@ -9,7 +9,7 @@
   ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        arg=?(~ [mon=@p ~])
+        arg=?(~ mon=@p)
         public-key=pass
     ==
 :-  %helm-moon
@@ -21,7 +21,7 @@
       leaf+"can't create a moon from a {?:(?=(%earl ran) "moon" "comet")}"
   ~
 =/  mon=ship
-  ?^  arg
+  ?.  ?=(~ arg)
     mon.arg
   (add our (lsh 5 1 (end 5 1 (shaz eny))))
 =/  seg=ship  (sein:title our now mon)

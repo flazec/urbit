@@ -8,7 +8,7 @@
   ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [mon=term ~]
+        mon=term
         auto=_|
     ==
 :-  %kiln-commit

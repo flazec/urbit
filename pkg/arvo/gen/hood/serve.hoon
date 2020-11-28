@@ -8,7 +8,7 @@
   ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [pax=path syd=desk gen=path ~]
+        [pax=path syd=desk gen=path]
         ~
     ==
 :+  %helm-serve

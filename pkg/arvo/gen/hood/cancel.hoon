@@ -7,5 +7,5 @@
 ::::
   ::
 :-  %say
-|=  [* a=$@(~ [@tas ~]) *]
-[%kiln-cancel ?@(a %foo -.a)]
+|=  [* a=?(~ @tas) *]
+[%kiln-cancel ?~(a %foo -.a)]

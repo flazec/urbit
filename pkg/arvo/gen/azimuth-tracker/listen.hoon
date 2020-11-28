@@ -1,8 +1,8 @@
 ::  Add a source for azimuth-tracker
 =>  |%
     +$  src
-      $%  [%ship =ship ~]
-          [%app =term ~]
+      $%  [%ship =ship]
+          [%app =term]
       ==
     --
 :-  %say

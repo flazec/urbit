@@ -2,7 +2,7 @@
 ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ =beak]
-        [[=ship name=term ~] ~]
+        [[=ship name=term] ~]
     ==
 :-  %publish-action
 [%subscribe ship name]

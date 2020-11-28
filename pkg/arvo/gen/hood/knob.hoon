@@ -5,6 +5,6 @@
 ::::
   ::
 :-  %say
-|=  [^ [error-tag=@tas level=?(%hush %soft %loud) ~] ~]
+|=  [^ [error-tag=@tas level=?(%hush %soft %loud)] ~]
 :-  %helm-knob
 [error-tag level]

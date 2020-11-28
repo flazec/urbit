@@ -3,7 +3,7 @@
 /-  *graph-store
 :-  %say
 |=  $:  [now=@da eny=@uvJ =beak]
-        [[[our=ship name=term] contents=(list content) ~] ~]
+        [[[our=ship name=term] contents=(list content)] ~]
     ==
 =/  =post  *post
 =:  author.post     our

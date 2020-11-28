@@ -5,7 +5,7 @@
 ::
 :-  %say
 |=  $:  [now=@da eny=@uvJ bek=beak]
-        [[tam=term ~] ~]
+        [tam=term ~]
     ==
 :-  %ovo
 =/  top  `path`/(scot %p p.bek)/[q.bek]/(scot r.bek)

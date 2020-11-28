@@ -290,7 +290,7 @@
   =/  body=json
     (need (de-json:html q.u.body.request.inbound-request))
   =/  input=vase
-    (slop (tube !>(body)) !>(~))
+    (tube !>(body))
   =/  =start-args
     [~ `tid thread input]
   =^  cards  state

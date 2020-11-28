@@ -5,7 +5,7 @@
 ::
 :-  %ask
 |=  $:  [now=@da eny=@uvJ bec=beak]
-        [who=ship ~]
+        who=ship
         life=_1
     ==
 ^-  (sole-result (cask cord))
